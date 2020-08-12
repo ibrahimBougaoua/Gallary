@@ -61,6 +61,7 @@
 .float-left { float: left!important; }
 
 /* padding */
+.p-0 { padding: 0px!important; }
 .p-1 { padding: 5px!important; }
 .p-2 { padding: 10px!important; }
 .p-3 { padding: 15px!important; }
