@@ -45,3 +45,9 @@
 .bg-danger { color: #dc3545!important; }
 .bg-light { color: #f8f9fa!important; }
 .bg-dark { color: #343a40!important; }
+
+/* font size */
+.fs-small { font-size: small!important; }
+.fs-Smaller { font-size: smaller!important; }
+.fs-large { font-size: large!important; }
+.fs-larger { font-size: larger!important; }
