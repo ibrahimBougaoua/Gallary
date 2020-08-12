@@ -1,18 +1,24 @@
 /* style.css */
 
 /* text colors */
-.text-white {
-	color: white;
-}
-.text-black {
-	color: black;
-}
-.text-yellow {
-	color: yellow;
-}
-.text-green {
-	color: green;
-}
-.text-pink {
-	color: pink;
-}
+.text-blue { color: #007bff; }
+.text-indigo { color: #6610f2; }
+.text-purple { color: #6f42c1; }
+.text-pink { color: #e83e8c; }
+.text-red { color: #dc3545; }
+.text-orange { color: #fd7e14; }
+.text-yellow { color: #ffc107; }
+.text-green { color: #28a745; }
+.text-teal { color: #20c997; }
+.text-cyan { color: #17a2b8; }
+.text-white { color: #fff; }
+.text-gray { color: #6c757d; }
+.text-gray-dark { color: #343a40; }
+.text-primary { color: #007bff; }
+.text-secondary { color: #6c757d; }
+.text-success { color: #28a745; }
+.text-info { color: #17a2b8; }
+.text-warning { color: #ffc107; }
+.text-danger { color: #dc3545; }
+.text-light { color: #f8f9fa; }
+.text-dark { color: #343a40; }
