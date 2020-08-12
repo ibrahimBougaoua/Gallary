@@ -1,1 +1,18 @@
 /* style.css */
+
+/* text colors */
+.text-white {
+	color: white;
+}
+.text-black {
+	color: black;
+}
+.text-yellow {
+	color: yellow;
+}
+.text-green {
+	color: green;
+}
+.text-pink {
+	color: pink;
+}
