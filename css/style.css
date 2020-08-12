@@ -77,3 +77,7 @@
 .m-4 { margin: 20px!important; }
 .m-5 { margin: 30px!important; }
 .m-6 { margin: 40px!important; }
+
+/* diplay enable / disable */
+.diplay-enable { display: block!important; }
+.diplay-disable { display: none!important; }
