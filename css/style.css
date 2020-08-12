@@ -59,3 +59,11 @@
 /* direction of text */
 .float-right { float: right!important; }
 .float-left { float: left!important; }
+
+/* padding */
+.p-1 { padding: 5px!important; }
+.p-2 { padding: 10px!important; }
+.p-3 { padding: 15px!important; }
+.p-4 { padding: 20px!important; }
+.p-5 { padding: 30px!important; }
+.p-6 { padding: 40px!important; }
