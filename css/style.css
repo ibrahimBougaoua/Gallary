@@ -118,6 +118,27 @@
 .shadow-sm-danger { box-shadow: #dc3545 0px 0px 5px; }
 .shadow-sm-light { box-shadow: #f8f9fa 0px 0px 5px; }
 .shadow-sm-dark { box-shadow: #343a40 0px 0px 5px; }
+.shadow-lg-blue { box-shadow: #007bff 0px 0px 5px; }
+.shadow-lg-indigo { box-shadow: #6610f2 0px 0px 5px; }
+.shadow-lg-purple { box-shadow: #6f42c1 0px 0px 5px; }
+.shadow-lg-pink { box-shadow: #e83e8c 0px 0px 5px; }
+.shadow-lg-red { box-shadow: #dc3545 0px 0px 5px; }
+.shadow-lg-orange { box-shadow: #fd7e14 0px 0px 5px; }
+.shadow-lg-yellow { box-shadow: #ffc107 0px 0px 5px; }
+.shadow-lg-green { box-shadow: #28a745 0px 0px 5px; }
+.shadow-lg-teal { box-shadow: #20c997 0px 0px 5px; }
+.shadow-lg-cyan { box-shadow: #17a2b8 0px 0px 5px; }
+.shadow-lg-white { box-shadow: #fff 0px 0px 5px; }
+.shadow-lg-gray { box-shadow: #6c757d 0px 0px 5px; }
+.shadow-lg-gray-dark { box-shadow: #343a40 0px 0px 5px; }
+.shadow-lg-primary { box-shadow: #007bff 0px 0px 5px; }
+.shadow-lg-secondary { box-shadow: #6c757d 0px 0px 5px; }
+.shadow-lg-success { box-shadow: #28a745 0px 0px 5px; }
+.shadow-lg-info { box-shadow: #17a2b8 0px 0px 5px; }
+.shadow-lg-warning { box-shadow: #ffc107 0px 0px 5px; }
+.shadow-lg-danger { box-shadow: #dc3545 0px 0px 5px; }
+.shadow-lg-light { box-shadow: #f8f9fa 0px 0px 5px; }
+.shadow-lg-dark { box-shadow: #343a40 0px 0px 5px; }
 
 /* container */
 .container-lg {
