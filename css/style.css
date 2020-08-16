@@ -89,6 +89,13 @@
 .w-4 { width: 8em!important; }
 .w-5 { width: 10em!important; }
 
+/* height */
+.h-1 { height: 2em!important; }
+.h-2 { height: 4em!important; }
+.h-3 { height: 6em!important; }
+.h-4 { height: 8em!important; }
+.h-5 { height: 10em!important; }
+
 /* container */
 .container-lg {
     max-width: 1800px;
