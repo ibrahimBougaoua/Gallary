@@ -82,6 +82,13 @@
 .diplay-enable { display: block!important; }
 .diplay-disable { display: none!important; }
 
+/* width */
+.w-1 { width: 2em!important; }
+.w-2 { width: 4em!important; }
+.w-3 { width: 6em!important; }
+.w-4 { width: 8em!important; }
+.w-5 { width: 10em!important; }
+
 /* container */
 .container-lg {
     max-width: 1800px;
