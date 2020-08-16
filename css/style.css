@@ -96,32 +96,28 @@
 .h-4 { height: 8em!important; }
 .h-5 { height: 10em!important; }
 
-shadow
-
-box-shadow: #000 0px 5px 3px;
-
 /* shadow colors */
-.shadow-blue { box-shadow: #007bff 0px 5px 3px; }
-.shadow-indigo { box-shadow: #6610f2 0px 5px 3px; }
-.shadow-purple { box-shadow: #6f42c1 0px 5px 3px; }
-.shadow-pink { box-shadow: #e83e8c 0px 5px 3px; }
-.shadow-red { box-shadow: #dc3545 0px 5px 3px; }
-.shadow-orange { box-shadow: #fd7e14 0px 5px 3px; }
-.shadow-yellow { box-shadow: #ffc107 0px 5px 3px; }
-.shadow-green { box-shadow: #28a745 0px 5px 3px; }
-.shadow-teal { box-shadow: #20c997 0px 5px 3px; }
-.shadow-cyan { box-shadow: #17a2b8 0px 5px 3px; }
-.shadow-white { box-shadow: #fff 0px 5px 3px; }
-.shadow-gray { box-shadow: #6c757d 0px 5px 3px; }
-.shadow-gray-dark { box-shadow: #343a40 0px 5px 3px; }
-.shadow-primary { box-shadow: #007bff 0px 5px 3px; }
-.shadow-secondary { box-shadow: #6c757d 0px 5px 3px; }
-.shadow-success { box-shadow: #28a745 0px 5px 3px; }
-.shadow-info { box-shadow: #17a2b8 0px 5px 3px; }
-.shadow-warning { box-shadow: #ffc107 0px 5px 3px; }
-.shadow-danger { box-shadow: #dc3545 0px 5px 3px; }
-.shadow-light { box-shadow: #f8f9fa 0px 5px 3px; }
-.shadow-dark { box-shadow: #343a40 0px 5px 3px; }
+.shadow-blue { box-shadow: #007bff 0px 0px 5px; }
+.shadow-indigo { box-shadow: #6610f2 0px 0px 5px; }
+.shadow-purple { box-shadow: #6f42c1 0px 0px 5px; }
+.shadow-pink { box-shadow: #e83e8c 0px 0px 5px; }
+.shadow-red { box-shadow: #dc3545 0px 0px 5px; }
+.shadow-orange { box-shadow: #fd7e14 0px 0px 5px; }
+.shadow-yellow { box-shadow: #ffc107 0px 0px 5px; }
+.shadow-green { box-shadow: #28a745 0px 0px 5px; }
+.shadow-teal { box-shadow: #20c997 0px 0px 5px; }
+.shadow-cyan { box-shadow: #17a2b8 0px 0px 5px; }
+.shadow-white { box-shadow: #fff 0px 0px 5px; }
+.shadow-gray { box-shadow: #6c757d 0px 0px 5px; }
+.shadow-gray-dark { box-shadow: #343a40 0px 0px 5px; }
+.shadow-primary { box-shadow: #007bff 0px 0px 5px; }
+.shadow-secondary { box-shadow: #6c757d 0px 0px 5px; }
+.shadow-success { box-shadow: #28a745 0px 0px 5px; }
+.shadow-info { box-shadow: #17a2b8 0px 0px 5px; }
+.shadow-warning { box-shadow: #ffc107 0px 0px 5px; }
+.shadow-danger { box-shadow: #dc3545 0px 0px 5px; }
+.shadow-light { box-shadow: #f8f9fa 0px 0px 5px; }
+.shadow-dark { box-shadow: #343a40 0px 0px 5px; }
 
 /* container */
 .container-lg {
