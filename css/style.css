@@ -81,3 +81,12 @@
 /* diplay enable / disable */
 .diplay-enable { display: block!important; }
 .diplay-disable { display: none!important; }
+
+/* container */
+.container {
+    background-color: black;
+    max-width: 1800px;
+    height: 4em;
+    padding: 0px;
+    margin: 0px auto;
+}
