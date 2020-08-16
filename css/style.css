@@ -99,13 +99,9 @@
 /* container */
 .container-lg {
     max-width: 1800px;
-    height: 4em;
-    padding: 0px;
     margin: 0px auto;
 }
 .container-sm {
     max-width: 1000px;
-    height: 4em;
-    padding: 0px;
     margin: 0px auto;
 }
