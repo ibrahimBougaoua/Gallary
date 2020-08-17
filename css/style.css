@@ -215,28 +215,24 @@ li.li {
 .href-dark { color: #343a40!important; }
 
 /* a hover */
-.href:hover {
-    color: #000;
-    transition: .8s;
-}
-.href-blue { color: #007bff!important; }
-.href-indigo { color: #6610f2!important; }
-.href-purple { color: #6f42c1!important; }
-.href-pink { color: #e83e8c!important; }
-.href-red { color: #dc3545!important; }
-.href-orange { color: #fd7e14!important; }
-.href-yellow { color: #ffc107!important; }
-.href-green { color: #28a745!important; }
-.href-teal { color: #20c997!important; }
-.href-cyan { color: #17a2b8!important; }
-.href-white { color: #fff!important; }
-.href-gray { color: #6c757d!important; }
-.href-gray-dark { color: #343a40!important; }
-.href-primary { color: #007bff!important; }
-.href-secondary { color: #6c757d!important; }
-.href-success { color: #28a745!important; }
-.href-info { color: #17a2b8!important; }
-.href-warning { color: #ffc107!important; }
-.href-danger { color: #dc3545!important; }
-.href-light { color: #f8f9fa!important; }
-.href-dark { color: #343a40!important; }
+.href-blue:hover { color: #007bff!important;color: #000;transition: .8s; }
+.href-indigo:hover { color: #6610f2!important;color: #000;transition: .8s; }
+.href-purple:hover { color: #6f42c1!important;color: #000;transition: .8s; }
+.href-pink:hover { color: #e83e8c!important;color: #000;transition: .8s; }
+.href-red:hover { color: #dc3545!important;color: #000;transition: .8s; }
+.href-orange:hover { color: #fd7e14!important;color: #000;transition: .8s; }
+.href-yellow:hover { color: #ffc107!important;color: #000;transition: .8s; }
+.href-green:hover { color: #28a745!important;color: #000;transition: .8s; }
+.href-teal:hover { color: #20c997!important;color: #000;transition: .8s; }
+.href-cyan:hover { color: #17a2b8!important;color: #000;transition: .8s; }
+.href-white:hover { color: #fff!important;color: #000;transition: .8s; }
+.href-gray:hover { color: #6c757d!important;color: #000;transition: .8s; }
+.href-gray-dark:hover { color: #343a40!important;color: #000;transition: .8s; }
+.href-primary:hover { color: #007bff!important;color: #000;transition: .8s; }
+.href-secondary:hover { color: #6c757d!important;color: #000;transition: .8s; }
+.href-success:hover { color: #28a745!important;color: #000;transition: .8s; }
+.href-info:hover { color: #17a2b8!important;color: #000;transition: .8s; }
+.href-warning:hover { color: #ffc107!important;color: #000;transition: .8s; }
+.href-danger:hover { color: #dc3545!important;color: #000;transition: .8s; }
+.href-light:hover { color: #f8f9fa!important;color: #000;transition: .8s; }
+.href-dark:hover { color: #343a40!important;color: #000;transition: .8s; }
