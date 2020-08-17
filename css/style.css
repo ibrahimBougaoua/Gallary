@@ -154,3 +154,7 @@ ul.ul-flex {
     list-style: none;
     display: flex;
 }
+ul.ul-grid {
+    list-style: none;
+    display: grid;
+}
