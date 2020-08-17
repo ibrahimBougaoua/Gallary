@@ -190,27 +190,28 @@ li.li {
     font-size: 16px;
     font-family: serif;
     transition: .8s;
+    color: #fff;
 }
 
 /* a hover */
-.href-blue:hover { color: #007bff!important;color: #000;transition: .8s; }
-.href-indigo:hover { color: #6610f2!important;color: #000;transition: .8s; }
-.href-purple:hover { color: #6f42c1!important;color: #000;transition: .8s; }
-.href-pink:hover { color: #e83e8c!important;color: #000;transition: .8s; }
-.href-red:hover { color: #dc3545!important;color: #000;transition: .8s; }
-.href-orange:hover { color: #fd7e14!important;color: #000;transition: .8s; }
-.href-yellow:hover { color: #ffc107!important;color: #000;transition: .8s; }
-.href-green:hover { color: #28a745!important;color: #000;transition: .8s; }
-.href-teal:hover { color: #20c997!important;color: #000;transition: .8s; }
-.href-cyan:hover { color: #17a2b8!important;color: #000;transition: .8s; }
-.href-white:hover { color: #fff!important;color: #000;transition: .8s; }
-.href-gray:hover { color: #6c757d!important;color: #000;transition: .8s; }
-.href-gray-dark:hover { color: #343a40!important;color: #000;transition: .8s; }
-.href-primary:hover { color: #007bff!important;color: #000;transition: .8s; }
-.href-secondary:hover { color: #6c757d!important;color: #000;transition: .8s; }
-.href-success:hover { color: #28a745!important;color: #000;transition: .8s; }
-.href-info:hover { color: #17a2b8!important;color: #000;transition: .8s; }
-.href-warning:hover { color: #ffc107!important;color: #000;transition: .8s; }
-.href-danger:hover { color: #dc3545!important;color: #000;transition: .8s; }
-.href-light:hover { color: #f8f9fa!important;color: #000;transition: .8s; }
-.href-dark:hover { color: #343a40!important;color: #000;transition: .8s; }
+.href-blue:hover { background-color: #007bff!important;color: #000;transition: .8s; }
+.href-indigo:hover { background-color: #6610f2!important;color: #000;transition: .8s; }
+.href-purple:hover { background-color: #6f42c1!important;color: #000;transition: .8s; }
+.href-pink:hover { background-color: #e83e8c!important;color: #000;transition: .8s; }
+.href-red:hover { background-color: #dc3545!important;color: #000;transition: .8s; }
+.href-orange:hover { background-color: #fd7e14!important;color: #000;transition: .8s; }
+.href-yellow:hover { background-color: #ffc107!important;color: #000;transition: .8s; }
+.href-green:hover { background-color: #28a745!important;color: #000;transition: .8s; }
+.href-teal:hover { background-color: #20c997!important;color: #000;transition: .8s; }
+.href-cyan:hover { background-color: #17a2b8!important;color: #000;transition: .8s; }
+.href-white:hover { background-color: #fff!important;color: #000;transition: .8s; }
+.href-gray:hover { background-color: #6c757d!important;color: #000;transition: .8s; }
+.href-gray-dark:hover { background-color: #343a40!important;color: #000;transition: .8s; }
+.href-primary:hover { background-color: #007bff!important;color: #000;transition: .8s; }
+.href-secondary:hover { background-color: #6c757d!important;color: #000;transition: .8s; }
+.href-success:hover { background-color: #28a745!important;color: #000;transition: .8s; }
+.href-info:hover { background-color: #17a2b8!important;color: #000;transition: .8s; }
+.href-warning:hover { background-color: #ffc107!important;color: #000;transition: .8s; }
+.href-danger:hover { background-color: #dc3545!important;color: #000;transition: .8s; }
+.href-light:hover { background-color: #f8f9fa!important;color: #000;transition: .8s; }
+.href-dark:hover { background-color: #343a40!important;color: #000;transition: .8s; }
