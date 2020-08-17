@@ -149,3 +149,8 @@
     max-width: 1000px;
     margin: 0px auto;
 }
+/* ul */
+ul.ul-flex {
+    list-style: none;
+    display: flex;
+}
