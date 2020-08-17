@@ -158,14 +158,21 @@ ul.ul-grid {
     list-style: none;
     display: grid;
 }
+/* li */
+li.li {
+    padding: 0.5em;
+    margin: 0px;
+}
 /* a href */
 .href {
     text-decoration: none;
     font-size: 16px;
     color: #fff;
     font-family: serif;
+    transition: .8s;
 }
 /* a hover */
 .href:hover {
     color: #000;
+    transition: .8s;
 }
