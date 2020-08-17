@@ -158,3 +158,14 @@ ul.ul-grid {
     list-style: none;
     display: grid;
 }
+/* a href */
+.href {
+    text-decoration: none;
+    font-size: 16px;
+    color: #fff;
+    font-family: serif;
+}
+/* a hover */
+.href:hover {
+    color: #000;
+}
