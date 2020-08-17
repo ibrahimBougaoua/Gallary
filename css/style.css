@@ -177,6 +177,14 @@ li.li {
     transition: .8s;
 }
 
+
+
+.href-blue ,
+.href-indigo ,
+.href-purple ,
+.href-pink , .href-red , .href-orange , .href-yellow , .href-green , .href-teal , .href-cyan , .href-whi, .href-gray , .href-gray-dark , .href-primary , .href-secondary , .href-success { color: #28a745!important; }
+.href-info , .href-warning , .href-danger , .href-light , .href-dark { color: #343a40!important; }
+
 .href-blue { color: #007bff!important; }
 .href-indigo { color: #6610f2!important; }
 .href-purple { color: #6f42c1!important; }
